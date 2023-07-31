@@ -67,4 +67,11 @@ The model trained with Gradient Boosting Classifier algorithm
 
 Gradient Boosting Classifier : Accuracy 97.65% , Recall – 67%, Precision- 100%, Specificity- 100%
 
+## Author 
+
+Connect on [LinkedIN](https://www.linkedin.com/in/lokeshgovula/)
+
+## License
+
+[MIT License](LICENSE)
 
